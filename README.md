@@ -50,7 +50,7 @@ Below is a demonstration of MindDesk's capabilities across conversation, documen
 > [!NOTE]
 > MindDesk runs entirely on local hardware. To demonstrate the end-to-end functionality within a reasonable timeframe, processing times vary by task, waiting periods were shortened, and certain sections were accelerated in the video below. However, the outputs and system workflows shown were not modified and reflect actual execution.
 
-<video src="assets/demo/demo.mp4" poster="assets/demo/demo_thumbnail.png" controls="controls" style="max-width: 100%;">
+<video src="https://drive.google.com/uc?export=download&id=1GVtCD-5pnohdx49q5A3DoXx5LhrLZNlD" poster="assets/demo/demo_thumbnail.png" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
