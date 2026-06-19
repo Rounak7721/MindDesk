@@ -1,0 +1,29 @@
+[Files]
+AI_Agents_Overview.pdf
+sales_dataset.csv
+workstation.png
+
+[Prompt]
+Summarize the uploaded PDF and identify the most important topics discussed. @[AI_Agents_Overview.pdf]
+Based on the PDF, answer the following questions:
+	1. What are the defining characteristics that distinguish AI agents from traditional software systems?
+	2. What are the four primary components of an agentic system, and what role does each component play?
+	3. Compare the ReAct architecture, Plan-and-Execute architecture, and Multi-Agent Systems. What are the strengths and trade-offs of each approach?
+	4. Explain how Retrieval-Augmented Generation (RAG) works and why it is important for enterprise AI systems.
+	5. What are the major challenges facing modern AI agents, including hallucinations, long-horizon task completion, and prompt injection attacks?
+	6. What future trends are expected to shape the next generation of AI agents?
+	7. Create a concise executive summary of the entire report for a technical audience.
+
+Analyze the uploaded sales dataset and provide:
+	1. A summary of the dataset.
+	2. Best-performing category.
+	3. Highest-selling product.
+	4. Any notable trends or insights.
+	5. Generate a bar chart showing sales by category.
+
+Analyze the uploaded workstation image and describe the scene in detail. @[workstation.png]
+Based on the image, answer:
+	1. What objects and devices are visible on the desk?
+	2. What evidence suggests this workspace is being used for software development?
+	3. Describe the overall working environment and setup.
+

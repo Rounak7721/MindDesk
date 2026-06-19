@@ -1,0 +1,14 @@
+[Files]
+Humanoid.jpg
+wiki_snippet.png]
+
+[Prompt]
+Analyze the uploaded humanoid robot image and identify the major objects present. @[Humanoid.jpg] 
+Extract all text from the uploaded image and generate a concise summary. @[wiki_snippet.png]
+Search the web for the latest developments in humanoid robotics and AI agents.
+Generate a image of a humanoid robot helping out in the kitchen.
+Write a Python program that counts the frequency of words in a sentence.
+Create a reminder for tomorrow at 8:00 AM to review the latest robotics developments.
+Turn on the fan and set it to medium speed.
+Turn on the desk lamp and panel.
+Create a report containing all findings from the image analysis and extracted text, then email me the report.
